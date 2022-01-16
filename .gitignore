@@ -1,3 +1,6 @@
 venv
 .idea
+.vscode
 .ipynb_checkpoints
+crowdsourcing
+tomography

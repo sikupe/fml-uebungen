@@ -1,5 +1,6 @@
 scikit-learn
-numpy
+numpy<=1.20.0
 matplotlib
 jupyterlab
 pandas
+numba>=0.54
